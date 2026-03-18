@@ -25,11 +25,17 @@
     <img src="https://img.shields.io/badge/Read-KR-2563eb?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Read in Korean" />
   </a>
   <a href="#english-version">
-    <img src="https://img.shields.io/badge/Read-EN-0f172a?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Read in English" />
+    <img src="https://img.shields.io/badge/Read-EN-f59e0b?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Read in English" />
   </a>
   <a href="#proof-of-work">
     <img src="https://img.shields.io/badge/Jump-Proof%20of%20Work-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Proof of work" />
   </a>
+</p>
+
+<p align="center">
+  <a href="#korean-version"><b>KR</b></a> |
+  <a href="#english-version"><b>EN</b></a> |
+  <a href="#proof-of-work"><b>Proof of Work</b></a>
 </p>
 
 <a id="korean-version"></a>
