@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Ryujm01">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Python+%7C+TypeScript+%7C+C%23+Developer;Building+web+services%2C+DB+logic%2C+and+vision+AI;From+frontend+UI+to+YOLO-based+workflows"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=Python+%7C+TypeScript+%7C+C%23+%7C+Flutter+Developer;Building+web%2C+mobile%2C+DB+logic%2C+and+vision+AI;Many+recent+projects+are+private%2C+but+the+stack+is+very+real"
       alt="Typing introduction"
     />
   </a>
@@ -26,12 +26,15 @@
 웹 서비스 개발부터 데이터 처리, 데이터베이스 로직, 컴퓨터 비전까지 폭넓게 다루는 개발자입니다.
 
 - `Python`, `TypeScript`, `C#`을 활용해 서비스와 기능을 구현하는 작업을 좋아합니다.
+- `Dart`와 `Flutter`로 앱 개발을 진행한 경험도 많습니다.
 - `PLpgSQL`과 `PostgreSQL`로 데이터 흐름과 쿼리 로직을 설계하는 경험이 있습니다.
 - `YOLO` 기반 비전 AI와 웹 프론트엔드, 스타일링, 배포 흐름까지 함께 다뤄본 경험이 있습니다.
+- 공개 저장소보다 `private repository`에서 작업한 비중이 커서, 최근 실제 경험이 GitHub에 전부 드러나지는 않습니다.
 
 ## Focus Areas
 
 - `Web Development` : `TypeScript`, `JavaScript`, `React`, `CSS` 기반으로 사용자와 바로 만나는 화면을 구현합니다.
+- `Mobile App Development` : `Dart`, `Flutter`로 앱 UI와 기능 흐름을 구현합니다.
 - `Backend & Data Logic` : `Python`, `C#`, `PLpgSQL`을 사용해 기능 로직과 데이터 처리 흐름을 설계합니다.
 - `AI & Vision` : `YOLO`를 활용한 객체 인식과 이미지 기반 문제 해결에 관심이 많습니다.
 - `Dev Workflow` : `Dockerfile`을 활용해 실행 환경을 정리하고 재현 가능한 개발 흐름을 만드는 작업을 좋아합니다.
@@ -42,12 +45,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
@@ -78,10 +83,16 @@
 
 - `Python` : 자동화, 데이터 처리, AI/비전 관련 기능 구현
 - `TypeScript / JavaScript` : 웹 프론트엔드와 인터랙션 중심 서비스 개발
+- `Dart / Flutter` : 앱 화면 구성, 상태 흐름, 모바일 기능 개발
 - `C#` : 기능 로직과 애플리케이션 개발 경험
 - `PLpgSQL` : 저장 프로시저, 함수, 쿼리 중심의 데이터 로직 구성
 - `Dockerfile` : 프로젝트 실행 환경 구성과 배포 흐름 정리
 - `YOLO` : 객체 탐지와 이미지 기반 분석 워크플로우 경험
+
+## Notes
+
+- 최근 작업물은 `private repository` 비중이 높아서, 공개 프로필에는 일부 프로젝트만 보입니다.
+- 그래서 이 README는 공개 저장소 목록보다 실제로 사용해 온 기술 스택과 작업 범위를 더 잘 보여주도록 구성했습니다.
 
 <p align="center">
   <a href="https://github.com/Ryujm01/fitmeRM">
@@ -108,5 +119,5 @@
 </p>
 
 <div align="center">
-  <sub>From web interfaces to database logic and vision AI.</sub>
+  <sub>From web and mobile apps to database logic and vision AI.</sub>
 </div>
